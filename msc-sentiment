@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chioma Amuwa | Sentiment Analysis of Medications</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 40px; max-width: 800px; margin: auto; background-color: #f9f9f9; }
+    h1 { color: #333; }
+    a { color: #0077cc; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+  <h1>Sentiment Analysis of Medications</h1>
+  <p><strong>University:</strong> University of Huddersfield</p>
+  <p><strong>Tools:</strong> Python, Tweepy, TextBlob, Matplotlib, WordCloud</p>
+
+  <h3>Overview</h3>
+  <p>My research explored public sentiment toward prescription medications by analyzing unstructured Twitter data. The aim was to understand how patient opinions, experiences, and concerns varied across drug categories.</p>
+
+  <h3>What I Did</h3>
+  <p>Using the Tweepy API, I collected thousands of tweets related to selected medications. I cleaned and preprocessed the data, then performed sentiment classification using TextBlob. I also created frequency plots, word clouds, and polarity histograms to visualize public opinion trends.</p>
+
+  <h3>Impact</h3>
+  <p>The analysis revealed sentiment shifts tied to product recalls, news cycles, and public awareness campaigns. The project demonstrated my ability to work with real-world text data, apply sentiment models, and derive insights from social media signals — skills directly transferable to digital analytics and consumer research.</p>
+
+  <p><a href="index.html">← Back to Portfolio</a></p>
+
+</body>
+</html>
